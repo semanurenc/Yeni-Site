@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: ;
+}
+
+.container{
+    background: url(web.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+}
